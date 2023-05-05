@@ -1,0 +1,68 @@
+#UserCard {
+    width: 18rem;
+
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color: #1e1f20;
+
+    margin-left: 20px;
+}
+
+#cardTitleMyProfile {
+    font-size: 300%;
+    font-weight: 700;
+
+    line-height: 100%;
+
+    margin: 0px 0px 28px 0px ;
+}
+
+#cardImage {
+    margin: 0px 0px 32px 0px;
+}
+
+#cardUserName {
+    font-size: 150%;
+    font-weight: 600;
+}
+
+#cardUserEmail {
+    font-weight: 300;
+
+    margin: 0px;
+}
+
+#cardUserDescription {
+    width: 14rem;
+
+    margin: 28px 0px;
+}
+
+#btnEditUserCard {
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color: #6700e6;
+
+    color: #6700e6;
+
+    width: 4rem;
+
+    font-weight: 600;
+}
+
+#btnEditUserCard:hover {
+    background-color: #6700e6;
+    opacity: 80%;
+
+    color: #ffffff;
+}
+
+#otherPortfolio {
+    font-weight: 600;
+
+    margin-left: 56px;
+
+    color: #6700e6
+}

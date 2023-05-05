@@ -1,0 +1,50 @@
+#CardProject {
+    background-color: #ffffff;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1e1f20;
+    border-radius: 8px;
+
+    margin: 20px 20px 20px 20px;
+    padding: 30px 40px;
+}
+
+#cardProjectBody {
+    padding: 0px;
+}
+
+#cardTitleProject {
+    display: flex;
+    justify-content: center;
+
+    font-size: 200%;
+}
+
+#cardTitleProjectKor {
+    display: flex;
+    align-items: flex-end;
+
+    font-weight: 600;
+
+    padding: 12px;
+    padding-bottom: 4px;
+}
+
+#btnAddProject {
+    background-color: #6700e6;
+    color: #ffffff;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #6700e6;
+    border-radius: 40px;
+
+    width: 3rem;
+    height: 3rem;
+    font-size: 120%;
+}
+
+#btnAddProject:hover {
+    opacity: 80%;
+}

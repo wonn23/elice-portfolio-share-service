@@ -1,0 +1,55 @@
+#UserEditCard {
+    width: 286.22px;
+    height: 420px;
+    margin: 0 0 0 18px;
+
+    border: solid 2px #1e1f20;
+}
+
+#cardTitleMyProfile {
+    padding: 8px;
+    margin-bottom: 32px;
+}
+
+#btnProfileConfirm {
+    width: 4rem;
+    font-size: 90%;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color:#6700e6;
+
+    background-color: #6700e6;
+    color: #ffffff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btnProfileConfirm:hover {
+    opacity: 80%;
+}
+
+#btnProfileCancel {
+    width: 4rem;
+
+    font-size: 90%;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color:#6700e6;
+
+    background-color: #ffffff;
+    color: #6700e6;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btnProfileCancel:hover {
+    font-weight: 600;
+}

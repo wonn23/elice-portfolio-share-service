@@ -1,0 +1,160 @@
+span {
+    font-family : 'Pretendard'
+  }
+
+#NavBar {
+    position: relative;
+
+    border: solid #1e1f20;
+    border-width: 0;
+
+    padding-left: 10px;
+    margin-top: 2px;
+}
+
+#navEducation {
+    background-color: #ffffff;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1e1f20;
+    border-radius: 8px 8px 0px 0px;
+
+    margin-left: 12px;
+
+    color: #1e1f20;
+
+    width: 144px;
+
+    display: flex;
+    justify-content: center;
+}
+
+#navEducation:focus {
+    border-color: #1e1f20 #1e1f20 #ffffff #1e1f20;
+}
+
+#navAward {
+    background-color: #ffffff;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1e1f20;
+    border-radius: 8px 8px 0px 0px;
+
+    margin-left: 8px;
+
+    color: #1e1f20;
+
+    width: 144px;
+
+    display: flex;
+    justify-content: center;
+}
+
+#navAward:focus {
+    border-color: #1e1f20 #1e1f20 #ffffff #1e1f20;
+}
+
+#navCertificate {
+    background-color: #ffffff;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1e1f20;
+    border-radius: 8px 8px 0px 0px;
+
+    margin-left: 8px;
+
+    color: #1e1f20;
+
+    width: 144px;
+
+    display: flex;
+    justify-content: center;
+}
+
+#navCertificate:focus {
+    border-color: #1e1f20 #1e1f20 #ffffff #1e1f20;
+}
+
+#navProject {
+    background-color: #ffffff;
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: #1e1f20;
+    border-radius: 8px 8px 0px 0px;
+
+    margin-left: 8px;
+
+    color: #1e1f20;
+
+    width: 144px;
+
+    display: flex;
+    justify-content: center;
+}
+
+#navProject:focus {
+    border-color: #1e1f20 #1e1f20 #ffffff #1e1f20;
+}
+
+#navItemMusic {
+    position: relative;
+}
+
+#navMusic {
+    width: flex;
+    height: 40px;
+  
+    border: 2px solid #1e1f20;
+    border-radius: 40px;
+  
+    background-color: #1e1f20;
+    color: #ffffff;
+    font-weight: 600;
+    font-size:120%;
+  
+    float: center;
+    position: relative;
+    top: 612px;
+    left: -720px;
+  
+    display: flex;
+    justify-content: center;
+  
+    padding: 4px 32px;
+
+    cursor: url(lib/styles/assets/rabbitCursor\(pup\).svg) 5 5, progress;
+}
+
+#colUserMusic {
+    margin: 0px;
+}
+
+#navStory {
+    width: 280px;
+    height: 40px;
+  
+    border: 2px solid #1e1f20;
+    border-radius: 40px;
+  
+    background-color: #1e1f20;
+    color: #ffffff;
+    font-weight: 600;
+  
+    float: center;
+    position: absolute;
+    top: -20px;
+    left: 960px;
+  
+    display: flex;
+    justify-content: center;
+  
+    padding: 6px 32px;
+
+    cursor: url(lib/styles/assets/rabbitCursor\(pup\).svg) 5 5, progress;
+
+    z-index: 1;
+}

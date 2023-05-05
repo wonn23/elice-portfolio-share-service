@@ -1,0 +1,12 @@
+html {
+    cursor: url(lib/styles/assets/rabbitCursor.svg), url(lib/styles/assets/rabbitCursor\(pup\).svg) 5 5, progress;
+    scroll-behavior: smooth;
+}
+
+.temp {
+	height: 100vh;
+}
+
+span {
+    font-family : 'Pretendard'
+  }

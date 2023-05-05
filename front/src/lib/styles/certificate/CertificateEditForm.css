@@ -1,0 +1,103 @@
+#formCertificate {
+    margin: 24px 0px; 
+}
+
+#formCredit {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+
+    margin: 0px 0px 16px 0px;
+}
+
+#formGrade {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+}
+
+#formAgency {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+}
+
+#pCertificateAgency {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: 600;
+}
+
+#pAcquireDate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-weight: 600;
+}
+
+#formAcquireDate {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+
+    text-align: center;
+}
+
+#btnCertificateConfirm {
+    width: 4rem;
+
+    font-size: 90%;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color:#6700e6;
+
+    background-color: #6700e6;
+    color: #ffffff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btnCertificateConfirm:hover {
+    opacity: 80%;
+}
+
+#btnCertificateCancel {
+    width: 4rem;
+
+    font-size: 90%;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color:#6700e6;
+
+    background-color: #ffffff;
+    color: #6700e6;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btnCertificateCancel:hover {
+    font-weight: 600;
+}

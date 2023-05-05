@@ -1,0 +1,45 @@
+#Header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    position: relative;
+
+    height: 96px;
+
+    background-color: white;
+
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: none none #1E1F20 none;
+
+    margin-bottom: 60px;
+}
+
+#Header #headerNavigateMyPage {
+    position: absolute;
+    left: 2%;
+}
+
+#headerNavigateNetwork {
+    position: absolute;
+    left: 12%;
+}
+
+#headerTitle {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+
+    font-size: larger;
+}
+
+#headerLogout {
+    position: absolute;
+    left: 84%;
+}
+
+#headerToggle {
+    position: absolute;
+    left: 92%;
+}

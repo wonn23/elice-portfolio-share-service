@@ -1,0 +1,81 @@
+#rowCertificateCredit {
+    font-size: 110%;
+    font-weight: 600;
+    
+    color: #1e1f20;
+
+    padding: 0px;
+    margin: 0px 8px 0px 12px;
+}
+
+
+#rowCertificateGrade {
+    font-size: 110%;
+    font-weight: 600;
+    
+    color: #1e1f20;
+
+    padding: 0px;
+    margin: 0px 8px 0px 0px;
+}
+
+#rowCertificateDateAgency {
+    font-size: 110%;
+    font-weight: 400;
+    
+    color: #1e1f20;
+
+    padding: 0px;
+    margin: 0px 8px 0px 0px;
+}
+
+#colBtnCertificate {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btnEditCertificate {
+    width: 4rem;
+
+    font-size: 90%;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color:#6700e6;
+
+    background-color: #ffffff;
+    color: #6700e6;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 8px;
+}
+
+#btnEditCertificate:hover {
+    border-color:#6700e6;
+    background-color: #6700e6;
+    color: #ffffff;
+}
+
+#rowAwardPrize {
+    font-size: 110%;
+    font-weight: 600;
+    
+    color: #1e1f20;
+
+    padding: 0px;
+    margin: 12px 0px 0px 0px;
+}
+
+#rowAwardDetail {
+    font-weight: 400;
+    
+    color: #1e1f20;
+
+    padding: 0px;
+    margin: 12px 0px 0px 0px;
+}

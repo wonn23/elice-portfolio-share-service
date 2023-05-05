@@ -1,0 +1,67 @@
+#colEduStatus {
+    width: 88px;
+    height: 28px;
+
+    font-size: 88%;
+    font-weight: 600;
+    
+    border-style: solid;
+    border-width: 1.8px;
+    border-radius: 20px;
+    border-color:#1e1f20;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#rowEduSchool {
+    font-size: 120%;
+    font-weight: 600;
+    
+    color: #1e1f20;
+
+    margin: 0px 0px 10px 24px;
+}
+
+#rowEduMajor {
+    font-size: 110%;
+    font-weight: 400;
+    
+    color: #1e1f20;
+
+    margin: 10px 0px 0px 24px;
+}
+
+#colBtnEdu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btnEditEducation {
+    width: 4rem;
+
+    font-size: 90%;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color:#6700e6;
+
+    background-color: #ffffff;
+    color: #6700e6;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-right: 8px;
+}
+
+#btnEditEducation:hover {
+    border-color:#6700e6;
+    background-color: #6700e6;
+    color: #ffffff;
+}

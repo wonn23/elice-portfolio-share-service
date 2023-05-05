@@ -1,0 +1,92 @@
+#ContainerRegister {
+    background-color: #ffffff;
+
+    border: solid 2px #1e1f20;
+    border-radius: 20px;
+
+    width: 480px;
+
+    padding: 48px 0px;
+}
+
+#rowRegister {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#registerEmail {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+
+    margin: 0px 0px 16px 0px;
+}
+
+#registerPassword {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+
+    margin: 0px 0px 16px 0px;
+}
+
+#registerConfirmPassword {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+
+    margin: 0px 0px 16px 0px;
+}
+
+#registerName {
+    height: 2.4rem;
+
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #1e1f20;
+    border-radius: 12px;
+
+    margin: 0px 0px 16px 0px;
+}
+
+#btnSignup{
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color: #1e1f20;
+
+    background-color: #1e1f20;
+
+    color: #ffffff;
+
+    width: 8rem;
+
+    font-weight: 600;
+}
+
+#btnLogin {
+    border-style: solid;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color: #1e1f20;
+
+    color: #1e1f20;
+
+    width: 8rem;
+
+    font-weight: 600;
+}
+
+#text-success {
+    color: #6700e6;
+}
